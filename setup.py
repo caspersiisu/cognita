@@ -10,6 +10,8 @@ setup(
     install_requires=[
         "requests",
         "python-dotenv",
+        "pytest",
+        "setuptools"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
